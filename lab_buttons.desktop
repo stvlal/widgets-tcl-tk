@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Buttons
+Exec=/home/vladimir/work/widgets/lab_buttons.sh
+Icon=/home/vladimir/work/widgets/button.png
+StartupWMClass=lab_buttons.sh
